@@ -6,7 +6,7 @@ https://angular.io/docs
 
 If you prefer videos, Angular has an awesome [YouTube channel](https://youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF) with great resources:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF
 
 >Resource to learn and build angular Applications. Inspired by a month long Angular sessions by Google Developer Students Clubs (Chuka University & Zetech University)
 
@@ -23,8 +23,9 @@ What you need to have(or know) before using Angular:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview) (Classes, Modules)
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript Technologies](https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview)
-- [NodeJs Installed](https://nodejs.org/) (an active LTS version preferably from v16)
+- [NodeJs Installed](https://nodejs.org/) (an active LTS version preferably from v16/18)
 
 >Feel free to add/edit
 
+[Installing Angular CLI](/Resources/installing-angular-cli.md)
 
