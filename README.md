@@ -29,6 +29,6 @@ What you need to have(or know) before using Angular:
 
 ## Repository Navigation
 
-[Key Terms Definitions](/Resources//Key-Terms-Definitions.md)
-[Installing Angular CLI](/Resources/installing-angular-cli.md)
-
+- [Key Terms Definitions](/Resources//Key-Terms-Definitions.md)
+- [Installing Angular CLI](/Resources/installing-angular-cli.md)
+- [Angular File Structure: Practical Explanation](/projects/angular-file-structure/README.md)

@@ -29,3 +29,16 @@ ng version
 
 ### Screenshot on Ubuntu (Terminal)
 ![ng-version on ubuntu](/assets/ng-version-ubuntu.png)
+
+
+## Starting an Angular Project:
+
+```bash
+ng new my-first-project
+cd my-first-project
+ng serve
+```
+
+Learn more on Angular CLI:
+
+https://angular.io/cli
