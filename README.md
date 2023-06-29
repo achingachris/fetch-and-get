@@ -27,5 +27,8 @@ What you need to have(or know) before using Angular:
 
 >Feel free to add/edit
 
+## Repository Navigation
+
+[Key Terms Definitions](/Resources//Key-Terms-Definitions.md)
 [Installing Angular CLI](/Resources/installing-angular-cli.md)
 

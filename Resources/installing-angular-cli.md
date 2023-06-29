@@ -24,4 +24,8 @@ After installation, run:
 ng version
 ```
 
-![ng-version on windows](/assets//ng-version-windows.png)
+### Screenshot on Windows (Powershell)
+![ng-version on windows](/assets/ng-version-windows.png)
+
+### Screenshot on Ubuntu (Terminal)
+![ng-version on ubuntu](/assets/ng-version-ubuntu.png)
