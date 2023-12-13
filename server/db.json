@@ -1,0 +1,26 @@
+{
+    "marvelstars": [
+      {
+        "id": 1,
+        "rating": 10,
+        "name": "Tony Stark",
+        "stagename": "Ironman",
+        "powers": "Iron Man possesses powered armor that gives him superhuman strength and durability, flight, and an array of weapons"
+      },
+      {
+        "id": 2,
+        "rating": 9,
+        "name": "Steve Rogers",
+        "stagename": "Captain America",
+        "powers": "Superhuman strength, agility, and endurance due to the Super-Soldier Serum. Skilled martial artist and expert with the vibranium shield."
+      },
+      {
+        "id": 3,
+        "rating": 8,
+        "name": "Natasha Romanoff",
+        "stagename": "Black Widow",
+        "powers": "Expert martial artist, marksmanship, and hand-to-hand combat. Skilled spy and master of espionage."
+      }
+    ]
+  }
+  
