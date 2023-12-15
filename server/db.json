@@ -1,15 +1,8 @@
 {
   "marvelstars": [
     {
-      "id": 1,
-      "rating": 10,
-      "name": "Tony Stark",
-      "stagename": "Ironman",
-      "powers": "Upgraded powered armor with new features and enhancements."
-    },
-    {
       "id": 3,
-      "rating": 8,
+      "rating": 10,
       "name": "Natasha Romanoff",
       "stagename": "Black Widow",
       "powers": "Expert martial artist, marksmanship, and hand-to-hand combat. Skilled spy and master of espionage."
@@ -27,20 +20,6 @@
       "name": "Maxwell Jordan",
       "stagename": "Green Lightning",
       "powers": "Control over electricity, super speed, and flight."
-    },
-    {
-      "id": 22,
-      "rating": 7,
-      "name": "Sarah Knight",
-      "stagename": "Shadow Panther",
-      "powers": "Enhanced agility, night vision, and stealth capabilities."
-    },
-    {
-      "id": 23,
-      "rating": 8,
-      "name": "Alex Summers",
-      "stagename": "Solar Flare",
-      "powers": "Ability to absorb and project solar energy."
     },
     {
       "id": 24,
@@ -125,6 +104,30 @@
       "name": "Felix Grant",
       "stagename": "Nightblade",
       "powers": "Master swordsman, enhanced senses, and shadow manipulation."
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 89,
+      "rating": 10,
+      "name": "Joy Ngugi Wanjigi",
+      "stagename": "Iron Lady",
+      "powers": "She is cool, she can iron, she can also cook chapaiiii"
+    },
+    {
+      "id": 73,
+      "rating": 1,
+      "name": "Ngugu Wa Thiongo",
+      "stagename": "Thanos",
+      "powers": "Snaps and annoys people"
+    },
+    {
+      "id": 1999,
+      "rating": 100000,
+      "name": "Rose Mohando",
+      "stagename": "Rick Rose",
+      "powers": "Singing gospels songs, that apparently Kenyans love them"
     }
   ]
 }

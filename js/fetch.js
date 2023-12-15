@@ -1,3 +1,5 @@
+const axios = require("axios");
+
 const apiURL = 'http://localhost:8000/marvelstars';
 
 // Fetch data (GET request)
@@ -101,3 +103,6 @@ fetch(`${apiURL}/${starIdToDelete}`, {
   .catch(error => {
     console.error(error.message);
   });
+
+
+
