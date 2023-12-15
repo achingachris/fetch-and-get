@@ -1,26 +1,130 @@
 {
-    "marvelstars": [
-      {
-        "id": 1,
-        "rating": 10,
-        "name": "Tony Stark",
-        "stagename": "Ironman",
-        "powers": "Iron Man possesses powered armor that gives him superhuman strength and durability, flight, and an array of weapons"
-      },
-      {
-        "id": 2,
-        "rating": 9,
-        "name": "Steve Rogers",
-        "stagename": "Captain America",
-        "powers": "Superhuman strength, agility, and endurance due to the Super-Soldier Serum. Skilled martial artist and expert with the vibranium shield."
-      },
-      {
-        "id": 3,
-        "rating": 8,
-        "name": "Natasha Romanoff",
-        "stagename": "Black Widow",
-        "powers": "Expert martial artist, marksmanship, and hand-to-hand combat. Skilled spy and master of espionage."
-      }
-    ]
-  }
-  
+  "marvelstars": [
+    {
+      "id": 1,
+      "rating": 10,
+      "name": "Tony Stark",
+      "stagename": "Ironman",
+      "powers": "Upgraded powered armor with new features and enhancements."
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "name": "Natasha Romanoff",
+      "stagename": "Black Widow",
+      "powers": "Expert martial artist, marksmanship, and hand-to-hand combat. Skilled spy and master of espionage."
+    },
+    {
+      "id": 18,
+      "rating": 9,
+      "name": "Diana Prince",
+      "stagename": "Wonder Woman",
+      "powers": "Superhuman strength, agility, and durability. Wields the Lasso of Truth and indestructible bracelets."
+    },
+    {
+      "id": 21,
+      "rating": 8,
+      "name": "Maxwell Jordan",
+      "stagename": "Green Lightning",
+      "powers": "Control over electricity, super speed, and flight."
+    },
+    {
+      "id": 22,
+      "rating": 7,
+      "name": "Sarah Knight",
+      "stagename": "Shadow Panther",
+      "powers": "Enhanced agility, night vision, and stealth capabilities."
+    },
+    {
+      "id": 23,
+      "rating": 8,
+      "name": "Alex Summers",
+      "stagename": "Solar Flare",
+      "powers": "Ability to absorb and project solar energy."
+    },
+    {
+      "id": 24,
+      "rating": 9,
+      "name": "Lily Huang",
+      "stagename": "Mystic Dragon",
+      "powers": "Dragon-like abilities, fire breath, flight, and super strength."
+    },
+    {
+      "id": 25,
+      "rating": 7,
+      "name": "Marcus Stone",
+      "stagename": "Terra Firma",
+      "powers": "Earth manipulation and super durability."
+    },
+    {
+      "id": 26,
+      "rating": 8,
+      "name": "Emily Frost",
+      "stagename": "Ice Queen",
+      "powers": "Ice manipulation and creation, cold resistance."
+    },
+    {
+      "id": 27,
+      "rating": 7,
+      "name": "Kevin Blaze",
+      "stagename": "Inferno",
+      "powers": "Fire manipulation and heat resistance."
+    },
+    {
+      "id": 28,
+      "rating": 9,
+      "name": "Zoe Lightwood",
+      "stagename": "Starlight",
+      "powers": "Light manipulation, energy projection, and flight."
+    },
+    {
+      "id": 29,
+      "rating": 8,
+      "name": "Jason Pierce",
+      "stagename": "Steel Hawk",
+      "powers": "Mechanical wings for flight, enhanced vision, and metal manipulation."
+    },
+    {
+      "id": 30,
+      "rating": 9,
+      "name": "Laura Grey",
+      "stagename": "Quantum",
+      "powers": "Teleportation, time manipulation."
+    },
+    {
+      "id": 31,
+      "rating": 7,
+      "name": "Aaron Fox",
+      "stagename": "Wild Spirit",
+      "powers": "Animal communication, shape-shifting into animals."
+    },
+    {
+      "id": 32,
+      "rating": 8,
+      "name": "Nina Santos",
+      "stagename": "Thunderbird",
+      "powers": "Weather manipulation, flight, electrical generation."
+    },
+    {
+      "id": 33,
+      "rating": 8,
+      "name": "Kyle Rhodes",
+      "stagename": "Phantom Walker",
+      "powers": "Intangibility, invisibility, and spectral movement."
+    },
+    {
+      "id": 34,
+      "rating": 7,
+      "name": "Amber Lee",
+      "stagename": "Crimson Archer",
+      "powers": "Master archer with enhanced reflexes and agility."
+    },
+    {
+      "id": 35,
+      "rating": 8,
+      "name": "Felix Grant",
+      "stagename": "Nightblade",
+      "powers": "Master swordsman, enhanced senses, and shadow manipulation."
+    }
+  ]
+}
